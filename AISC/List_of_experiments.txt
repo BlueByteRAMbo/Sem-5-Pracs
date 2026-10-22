@@ -1,0 +1,25 @@
+AISC List of Experiments
+
+1. Implement discrete perceptron learning rule. Use unipolar binary activation function
+2. Implement discrete perceptron learning rule. Use bipolar binary activation function.
+3. Implement continuous perceptron learning rule. Use unipolar continuous activation function.
+4. Implement continuous perceptron learning rule. Use bipolar continuous activation function.
+5. Implement Hebbian learning Rule. Use unipolar binary activation function
+6. Implement Hebbian learning Rule. Use bipolar binary activation function
+7. Implement Hebbian learning Rule. Use unipolar continuous activation function
+8. Implement Hebbian learning Rule. Use bipolar continuous activation function
+-- 9. Implement Depth Limit Search algorithm
+-- 10. Implement DFID search algorithm
+11. Implement Hill Climbing algorithm
+12. Implement A* algorithm
+13. Implement Min-Max algrotihm
+14. Implement alpha-Beta pruning Algorithm
+-- 15. Implement any five fuzzy operations on two fuzzy sets.
+-- 16. Implement composition operations on fuzzy relations
+17. Implement weighted average defuzzification method
+18. Implement defuzzification using Centroid method
+19. Implement defuzzification using centre of sum method
+20. Implement defuzzification using height method
+21. Implement defuzzification using centre of area method
+22. Implement Winner take all learning Rule
+23. Implement Learning VQ learning Rule
