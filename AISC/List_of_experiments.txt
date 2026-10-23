@@ -1,13 +1,13 @@
 AISC List of Experiments
 
-1. Implement discrete perceptron learning rule. Use unipolar binary activation function
-2. Implement discrete perceptron learning rule. Use bipolar binary activation function.
-3. Implement continuous perceptron learning rule. Use unipolar continuous activation function.
-4. Implement continuous perceptron learning rule. Use bipolar continuous activation function.
-5. Implement Hebbian learning Rule. Use unipolar binary activation function
-6. Implement Hebbian learning Rule. Use bipolar binary activation function
-7. Implement Hebbian learning Rule. Use unipolar continuous activation function
-8. Implement Hebbian learning Rule. Use bipolar continuous activation function
+-- 1. Implement discrete perceptron learning rule. Use unipolar binary activation function
+-- 2. Implement discrete perceptron learning rule. Use bipolar binary activation function.
+-- 3. Implement continuous perceptron learning rule. Use unipolar continuous activation function.
+-- 4. Implement continuous perceptron learning rule. Use bipolar continuous activation function.
+-- 5. Implement Hebbian learning Rule. Use unipolar binary activation function
+-- 6. Implement Hebbian learning Rule. Use bipolar binary activation function
+-- 7. Implement Hebbian learning Rule. Use unipolar continuous activation function
+-- 8. Implement Hebbian learning Rule. Use bipolar continuous activation function
 -- 9. Implement Depth Limit Search algorithm
 -- 10. Implement DFID search algorithm
 11. Implement Hill Climbing algorithm
