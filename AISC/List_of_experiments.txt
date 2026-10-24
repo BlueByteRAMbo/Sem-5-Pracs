@@ -12,14 +12,14 @@ AISC List of Experiments
 -- 10. Implement DFID search algorithm
 11. Implement Hill Climbing algorithm
 12. Implement A* algorithm
-13. Implement Min-Max algrotihm
-14. Implement alpha-Beta pruning Algorithm
+-- 13. Implement Min-Max algrotihm
+-- 14. Implement alpha-Beta pruning Algorithm
 -- 15. Implement any five fuzzy operations on two fuzzy sets.
 -- 16. Implement composition operations on fuzzy relations
-17. Implement weighted average defuzzification method
-18. Implement defuzzification using Centroid method
-19. Implement defuzzification using centre of sum method
-20. Implement defuzzification using height method
-21. Implement defuzzification using centre of area method
-22. Implement Winner take all learning Rule
-23. Implement Learning VQ learning Rule
+-- 17. Implement weighted average defuzzification method
+-- 18. Implement defuzzification using Centroid method
+-- 19. Implement defuzzification using centre of sum method
+-- 20. Implement defuzzification using height method
+-- 21. Implement defuzzification using centre of area method
+-- 22. Implement Winner take all learning Rule
+-- 23. Implement Learning VQ learning Rule
