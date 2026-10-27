@@ -16,6 +16,9 @@ intersection=[]
 complement=[]
 algebric_product=[]
 algebric_sum=[]
+difference=[]
+bounded_sum=[]
+bounded_difference=[]
 
 for i in range(n):
     union.append(max(A[i],B[i]))
@@ -23,21 +26,15 @@ for i in range(n):
     complement.append(1-A[i])
     algebric_product.append(A[i]*B[i])
     algebric_sum.append(A[i]+B[i]-A[i]*B[i])
+    difference.append(min(A[i],1-B[i]))
+    bounded_sum.append(min(1,A[i]+B[i]))
+    bounded_difference.append(max(0,A[i]-B[i]))
 
-x = list(range(1,n+1))
-
-plt.plot(x,A,marker='o',label='Set_A')
-plt.plot(x,B,marker='o',label='Set_B')
-plt.plot(x,union,marker='o',label='union')
-plt.plot(x,intersection,marker='o',label='intersection')
-plt.plot(x,complement,marker='o',label='complement')
-plt.plot(x,algebric_product,marker='o',label='algebric_product')
-plt.plot(x,algebric_sum,marker='o',label='algebric_sum')
-
-plt.xlabel('Values')
-plt.ylabel('Menbership valuse')
-plt.ylim(0,1)
-plt.xticks(x)
-plt.legend()
-plt.grid()
-plt.show()
+print("Union: ", union)
+print("Intersection: ", intersection)
+print("Complement: ", complement)
+print("Algebric Product: ", algebric_product)
+print("Algebric Sum: ", algebric_sum)
+print("Difference: ", difference)
+print("Bounded Sum: ", bounded_sum)
+print("Bounded Difference: ", bounded_difference)
