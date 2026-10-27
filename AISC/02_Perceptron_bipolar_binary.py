@@ -25,7 +25,7 @@ while count<epoch:
         bias = bias + eta*(T[i]-y)
         if y != T[i]:
             corrections += 1
-        print(f"-----\nnet = {net}, f(net) = {y}")
+        print(f"-----\nAfter training example {i+1}: net = {net}, f(net) = {y}")
 
     count += 1
     print("=======================================")
